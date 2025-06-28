@@ -1,4 +1,5 @@
 package com.nt;
+import com.nt.entity.Product;
 import org.springframework.web.bind.annotation.*;
 import java.util.List;
 
